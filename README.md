@@ -1,16 +1,19 @@
-## Hi there 👋
+## sejam bem vindos ao melhor perfil do 2B 😻
 
-<!--
-**vitorcassik/vitorcassik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome e Vitor Gabriel
+- Estou estudando na Alura
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para a minha organizaçao e compartilhamento dos meus projetos desenvolvidos
 
-Here are some ideas to get you started:
+### Caso queira entrar em contato comigo 📧
+00001120441870sp@al.educacao.sp.gov.br
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎭@_vitor_silvw_
+
+
+### MESSI MELHOR QUE O CRISTIANO 🥇
+
+![](https://media.tenor.com/USQ6Vn8MfeoAAAAM/cr7-vs-messi-world-cup.gif)
+
+### MELHOR DE TODOS OS TEMPOS 🥇
+![](https://media1.tenor.com/m/WWuKr0zRdGYAAAAC/messi.gif)
